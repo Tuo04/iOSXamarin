@@ -1,5 +1,5 @@
 ﻿using System;
-
+using Microsoft.Azure.Mobile.Crashes;
 using UIKit;
 
 namespace iOSXamarin0704
@@ -8,7 +8,7 @@ namespace iOSXamarin0704
     {
         protected SecondViewController(IntPtr handle) : base(handle)
         {
-            // Note: this .ctor should not contain any initialization logic.
+            Crashes.GenerateTestCrash();
         }
 
         public override void ViewDidLoad()
