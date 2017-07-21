@@ -22,11 +22,11 @@ namespace iOSXamarin0721.UITests
         [Test]
         public void OpenSecondTab()
         {
-            app.Tap(c => c.Marked("Second"));
-            AppResult[] results = app.WaitForElement(c => c.Marked("Second View"));
-            app.Screenshot("Second tab is opened.");
 
-            Assert.IsTrue(results.Any());
+			AppResult[] results = app.WaitForElement(c => c.Child("UIView"));
+			app.Screenshot("First screen.");
+
+			Assert.IsTrue(results.Any());
         }
     }
 }

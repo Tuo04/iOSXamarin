@@ -1,6 +1,7 @@
 ﻿using System;
 
 using UIKit;
+using Microsoft.Azure.Mobile.Crashes;
 
 namespace iOSXamarin0721
 {
@@ -14,6 +15,8 @@ namespace iOSXamarin0721
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
+
+            Crashes.GenerateTestCrash();
             // Perform any additional setup after loading the view, typically from a nib.
         }
 

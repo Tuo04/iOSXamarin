@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{99C95163-939B-4BD8-9984-7FC84F80A81A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOSXamarin0721/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOSXamarin0721.UITests/Tests.cs">
     <Files>
-      <File FileName="iOSXamarin0721/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOSXamarin0721/AppDelegate.cs" Line="30" Column="29" />
       <File FileName="iOSXamarin0721/Main.cs" Line="12" Column="1" />
       <File FileName="iOSXamarin0721/Entitlements.plist" />
       <File FileName="iOSXamarin0721/Info.plist" />
+      <File FileName="iOSXamarin0721/SecondViewController.cs" Line="19" Column="1" />
+      <File FileName="iOSXamarin0721.UITests/Tests.cs" Line="26" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.iOSXamarin0721 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.98E6E5C8-C86F-4C56-B35D-8E39DE0F0F02" />
+  <MonoDevelop.Ide.ItemProperties.iOSXamarin0721 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
