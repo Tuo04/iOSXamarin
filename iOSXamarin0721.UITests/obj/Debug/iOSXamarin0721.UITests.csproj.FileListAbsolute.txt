@@ -1,0 +1,10 @@
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/bin/Debug/iOSXamarin0721.UITests.dll
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/bin/Debug/iOSXamarin0721.UITests.pdb
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/bin/Debug/nunit.framework.dll
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/bin/Debug/nunit.framework.xml
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/bin/Debug/Xamarin.UITest.xml
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/obj/Debug/iOSXamarin0721.UITests.csprojResolveAssemblyReference.cache
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/obj/Debug/iOSXamarin0721.UITests.csproj.CoreCompileInputs.cache
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/obj/Debug/iOSXamarin0721.UITests.dll
+/Users/bys/Desktop/Tuo/iOSXamarin/iOSXamarin0721/iOSXamarin0721.UITests/obj/Debug/iOSXamarin0721.UITests.pdb
